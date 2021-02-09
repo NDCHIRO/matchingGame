@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">matchingGameV2</string>
+    <string name="playAgain">play Again</string>
+    <string name="exit">exit</string>
+    <string name="good">Good job!</string>
+    <string name="time">time:</string>
+    <string name="zero">0</string>
+
+</resources>
